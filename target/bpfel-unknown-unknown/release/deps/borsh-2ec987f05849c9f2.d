@@ -1,0 +1,13 @@
+/home/otp/Documents/Projects/solana-starter-kit/target/bpfel-unknown-unknown/release/deps/borsh-2ec987f05849c9f2.rmeta: /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/otp/Documents/Projects/solana-starter-kit/target/bpfel-unknown-unknown/release/deps/libborsh-2ec987f05849c9f2.rlib: /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/otp/Documents/Projects/solana-starter-kit/target/bpfel-unknown-unknown/release/deps/borsh-2ec987f05849c9f2.d: /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs:
+/home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs:
+/home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs:
+/home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs:
+/home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs:
+/home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs:
+/home/otp/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs:

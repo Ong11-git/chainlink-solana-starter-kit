@@ -3,7 +3,7 @@ use anchor_lang::solana_program::system_program;
 
 use chainlink_solana as chainlink;
 
-declare_id!("JC16qi56dgcLoaTVe4BvnCoDL6FhH5NtahA7jmWZFdqm");
+declare_id!("GAteZs87b2XGqNX1fgSjfBe2HLsbGSr8bKeGfHdQw7nf");
 
 #[account]
 pub struct Decimal {
@@ -64,14 +64,21 @@ pub mod chainlink_solana_demo {
     }
 }
 
+
+
 #[derive(Accounts)]
 pub struct Execute<'info> {
     #[account(init, payer = user, space = 100)]
+    /// CHECK: This is not dangerous because we don't read or write from this account
     pub decimal: Account<'info, Decimal>,
     #[account(mut)]
+    /// CHECK: This is not dangerous because we don't read or write from this account
     pub user: Signer<'info>,
+    /// CHECK: This is not dangerous because we don't read or write from this account
     pub chainlink_feed: AccountInfo<'info>,
+    /// CHECK: This is not dangerous because we don't read or write from this account
     pub chainlink_program: AccountInfo<'info>,
     #[account(address = system_program::ID)]
+    /// CHECK: This is not dangerous because we don't read or write from this account
     pub system_program: AccountInfo<'info>,
 }

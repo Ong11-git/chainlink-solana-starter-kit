@@ -1,0 +1,1 @@
+/home/otp/Documents/Projects/solana-starter-kit/target/bpfel-unknown-unknown/release/chainlink_solana_demo.so: /home/otp/Documents/Projects/solana-starter-kit/programs/chainlink_solana_demo/src/lib.rs
